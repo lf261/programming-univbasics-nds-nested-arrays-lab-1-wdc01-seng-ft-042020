@@ -38,14 +38,14 @@ def sorted_matrix
   "Grapefruit",
   "Oranges",
   "Pineapple",
-  "Watermelon",
+  "Watermelon"
 ],
 
 [ "Asparagus",
   "Avocadoes"
   "Grapes",
   "Potatoes",
-  "Strawberries",
+  "Strawberries"
   ]
  ] 
   
