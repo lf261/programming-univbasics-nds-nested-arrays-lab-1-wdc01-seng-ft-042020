@@ -41,14 +41,12 @@ def sorted_matrix = [
   "Watermelon",
 ],
 
-[ 
+[ "Asparagus",
   
   "Strawberries",
   "Potatoes",
   "Grapes",
-  "Avocadoes",
-  "Asparagus"
-  
+  "Avocadoes"
   
   ]
   
