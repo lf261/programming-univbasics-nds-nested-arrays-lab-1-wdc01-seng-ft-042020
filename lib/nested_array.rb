@@ -36,8 +36,9 @@ def sorted_matrix = [
   
  ["Eggplant",
    "Grapefruit",
+   
   "Pineapple",
-  "Oranges",
+  
   "Watermelon",
 ],
 
