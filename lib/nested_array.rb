@@ -42,7 +42,7 @@ def sorted_matrix
 ],
 
 [ "Asparagus",
-  "Avocadoes"
+  "Avocadoes",
   "Grapes",
   "Potatoes",
   "Strawberries"
